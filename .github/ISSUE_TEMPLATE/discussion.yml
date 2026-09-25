@@ -1,4 +1,4 @@
-name: 논의
+name: 논의·결정 요청
 description: 팀이 정해야 할 것 (구조, 규칙, 담당 등)
 title: "[논의] "
 labels: ["discussion"]
