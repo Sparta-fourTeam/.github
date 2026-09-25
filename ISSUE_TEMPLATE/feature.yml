@@ -1,0 +1,32 @@
+name: 기능
+description: 새 기능 개발
+title: "[feat] "
+labels: ["feat"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: 목적
+      description: 무엇을 왜 만드는지
+    validations:
+      required: true
+  - type: textarea
+    id: todo
+    attributes:
+      label: 할 일
+      value: |
+        - [ ] 
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: 완료 기준
+      description: 어떻게 되면 끝난 건지
+    validations:
+      required: true
+  - type: textarea
+    id: ref
+    attributes:
+      label: 참고
+      description: 관련 문서, 이슈, 기획 링크

@@ -1,0 +1,25 @@
+name: 논의
+description: 팀이 정해야 할 것 (구조, 규칙, 담당 등)
+title: "[논의] "
+labels: ["discussion"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: 정할 것
+    validations:
+      required: true
+  - type: textarea
+    id: options
+    attributes:
+      label: 선택지와 장단점
+      value: |
+        1. 
+        2. 
+  - type: input
+    id: due
+    attributes:
+      label: 언제까지
+  - type: markdown
+    attributes:
+      value: 결론이 나면 노션 회의록에 결정과 이유를 남기고, 문서를 고친 뒤 이슈를 닫는다.
