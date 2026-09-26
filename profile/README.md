@@ -8,8 +8,8 @@ Unity와 Spring Boot로 만드는 모바일 게임 **{게임 이름}** 을 개�
 
 | 레포 | 설명 |
 | --- | --- |
-| [client](../../client) | Unity 클라이언트 |
-| [server](../../server) | Spring Boot 게임 서버 |
+| [client](https://github.com/Sparta-fourTeam/client) | Unity 클라이언트 |
+| [server](https://github.com/Sparta-fourTeam/server) | Spring Boot 게임 서버 |
 
 ## Tech Stack
 
