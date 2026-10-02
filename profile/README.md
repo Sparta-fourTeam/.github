@@ -1,8 +1,8 @@
-# 👋 {팀 이름}
+# 👋 Team Doodle
 
-Unity와 Spring Boot로 만드는 모바일 게임 **{게임 이름}** 을 개발하고 있습니다.
+Unity와 Spring Boot로 만드는 모바일 게임 **Doodle Doodle** 을 개발하고 있습니다.
 
-> {게임 한 줄 소개}
+> 낙서 감성으로 즐기는 로그라이크 디펜스
 
 ## Repositories
 
@@ -18,13 +18,13 @@ Unity와 Spring Boot로 만드는 모바일 게임 **{게임 이름}** 을 개�
 
 ## Members
 
-| 이름 | 역할 | GitHub |
-| --- | --- | --- |
-| A |  | @ |
-| B |  | @ |
-| C |  | @ |
-| D |  | @ |
-| E |  | @ |
+| 이름 | GitHub |
+| --- | --- |
+| 안은석 | 
+| 김민경 |  
+| 김상현 | 
+| 김도현 | 
+| 박상준 |  
 
 ## Contributing
 
